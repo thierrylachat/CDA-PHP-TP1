@@ -1,1 +1,0 @@
-Bienvenue sur le premier TP CodeIgniter
